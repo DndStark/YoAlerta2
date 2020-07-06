@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "657862914597",
+    "firebase_url": "https://yoalerta-fbb64.firebaseio.com",
+    "project_id": "yoalerta-fbb64",
+    "storage_bucket": "yoalerta-fbb64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657862914597:android:223748b600e2c27c6685cc",
+        "android_client_info": {
+          "package_name": "com.example.yoalerta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657862914597-vpr2biest2pm6fs882isgp7lnl3noisa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yoalerta",
+            "certificate_hash": "edb7d5400247126af799fbb3b246d4a5198ce680"
+          }
+        },
+        {
+          "client_id": "657862914597-3a4lgrl3ak1ev7a99f5103vehbcvv51d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCzoXpSK5i7FquVoQvur4R4I6R_8Gh1rA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657862914597-3a4lgrl3ak1ev7a99f5103vehbcvv51d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
